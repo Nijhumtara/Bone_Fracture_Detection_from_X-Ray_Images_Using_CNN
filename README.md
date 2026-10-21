@@ -56,3 +56,6 @@ Upon testing the model on the isolated test set (312 images total), the model ac
 pip install tensorflow numpy scikit-learn matplotlib seaborn
 ```
 4. Open your Jupyter Notebook or Google Colab environment and run all cells sequentially.
+
+## 👤 Author
+Nazma Begum — [GitHub](https://github.com/Nijhumtara)
