@@ -98,11 +98,7 @@ Run the notebook to generate the latest figures before adding them to this repos
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Nijhumtara/YOUR-REPOSITORY-NAME.git
-cd YOUR-REPOSITORY-NAME
-```
-
-Replace `YOUR-REPOSITORY-NAME` with the actual repository name.
+git clone [https://github.com/Nijhumtara/Bone_Fracture_Detection_from_X-Ray_Images_Using_CNN.git]
 
 ### 2. Install dependencies
 
